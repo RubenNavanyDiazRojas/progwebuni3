@@ -1,0 +1,23 @@
+#info{
+    background:rgb(4, 109, 170);
+    color: white;
+    text-align:center;
+    padding: 20px;
+}
+
+#info .contenedor{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.info-personal{
+    margin: 20px;
+}
+
+.info-personal img{
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    border: 7px solid rgb(29, 187, 8);
+}
